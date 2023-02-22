@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Cooperaccion-react/static/css/main.c5c56767.css",
+    "main.js": "/Cooperaccion-react/static/js/main.a909f65d.js",
+    "static/js/787.91ba2e3c.chunk.js": "/Cooperaccion-react/static/js/787.91ba2e3c.chunk.js",
+    "static/media/Asset 4.png": "/Cooperaccion-react/static/media/Asset 4.08ee34578a2705cb5704.png",
+    "static/media/ydespues.png": "/Cooperaccion-react/static/media/ydespues.fc031e643a7687ea4f68.png",
+    "static/media/eljuego.png": "/Cooperaccion-react/static/media/eljuego.5ad3b249dbd48f4e9004.png",
+    "static/media/nodos_1.png": "/Cooperaccion-react/static/media/nodos_1.14d07d795db84fbd059f.png",
+    "static/media/akzidenzgrotesk-cond-webfont.woff": "/Cooperaccion-react/static/media/akzidenzgrotesk-cond-webfont.e7441fbca892299d0dc7.woff",
+    "static/media/akzidenzgrotesk-lightcond-webfont.woff": "/Cooperaccion-react/static/media/akzidenzgrotesk-lightcond-webfont.96f8fd71a2a7a635ee50.woff",
+    "static/media/akzidenzgrotesk-cond-webfont.woff2": "/Cooperaccion-react/static/media/akzidenzgrotesk-cond-webfont.fc7aaa73406d8b754809.woff2",
+    "static/media/Graphik-Semibold.woff": "/Cooperaccion-react/static/media/Graphik-Semibold.e65a2e18279bb1c50a88.woff",
+    "static/media/akzidenzgrotesk-lightcond-webfont.woff2": "/Cooperaccion-react/static/media/akzidenzgrotesk-lightcond-webfont.719f6a15b4e47e39a10d.woff2",
+    "static/media/AkzidenzGroteskBQ-Light.woff": "/Cooperaccion-react/static/media/AkzidenzGroteskBQ-Light.8a970aa6bca949c3e9e9.woff",
+    "static/media/logo.png": "/Cooperaccion-react/static/media/logo.662c41e190e798798fde.png",
+    "static/media/Graphik-Semibold.woff2": "/Cooperaccion-react/static/media/Graphik-Semibold.5f5485065c4029067231.woff2",
+    "static/media/AkzidenzGroteskBE-Regular.woff": "/Cooperaccion-react/static/media/AkzidenzGroteskBE-Regular.e89e37824c26fb5d2128.woff",
+    "static/media/instagram.png": "/Cooperaccion-react/static/media/instagram.edb90ecc706a7a25542b.png",
+    "static/media/AkzidenzGroteskBQ-Light.woff2": "/Cooperaccion-react/static/media/AkzidenzGroteskBQ-Light.2b82fcad45c2ef97447d.woff2",
+    "static/media/AkzidenzGroteskBE-Regular.woff2": "/Cooperaccion-react/static/media/AkzidenzGroteskBE-Regular.395bb3b75ce12f44bd3d.woff2",
+    "index.html": "/Cooperaccion-react/index.html",
+    "main.c5c56767.css.map": "/Cooperaccion-react/static/css/main.c5c56767.css.map",
+    "main.a909f65d.js.map": "/Cooperaccion-react/static/js/main.a909f65d.js.map",
+    "787.91ba2e3c.chunk.js.map": "/Cooperaccion-react/static/js/787.91ba2e3c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5c56767.css",
+    "static/js/main.a909f65d.js"
+  ]
+}
